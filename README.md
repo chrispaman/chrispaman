@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A passionate Wed Developer</h3>
+<img align="right" src="https://camo.githubusercontent.com/14a82c9065ad50c7e8ef3fdf2463d22b0ef77c23c43784378e709d588130a58c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966">
 
 - 🔭 I’m currently working on **Part-time**
 
@@ -10,6 +11,9 @@
 - 📫 How to reach me **lloydchrispaman@gmail.com**
 
 - 📄 Know about my experiences [lloydchrispaman@gmail.com](lloydchrispaman@gmail.com)
+<img align="right alt+
+
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
